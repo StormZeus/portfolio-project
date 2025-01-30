@@ -1,11 +1,17 @@
-# 🚀 Sam Coe - Starfield Portfolio Project [![GPL-3.0 License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+# 🚀 Sam Coe - Stellar Portfolio Project [![GPL-3.0 License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
-**A responsive single-page portfolio** for a fictional Starfield character from the Bethesda game, showcasing advanced CSS layouts and interactive JavaScript features. Created as a final project for a Coursera Web Development course.
+**A responsive single-page portfolio** for a fictional Starfield character, showcasing advanced CSS layouts and interactive JavaScript features. Created as a final project for a Coursera Web Development course.
 
-**Live Demo:** ➡️ [GitHub Pages Deployment](https://stormzeus.github.io/Starfield-Resources/) ⬅️  
-[![Open in Browser](https://img.shields.io/badge/GitHub%20Pages-Live_Browser_Preview-success?logo=github)](https://stormzeus.github.io/Starfield-Resources/)
+**Live Demo:** ➡️ [https://stormzeus.github.io/portfolio-project/](https://stormzeus.github.io/portfolio-project/) ⬅️  
+[![Open in Browser](https://img.shields.io/badge/GitHub%20Pages-Live_Browser_Preview-success?logo=github)](https://stormzeus.github.io/portfolio-project/)
 
 ![Portfolio Preview](https://images.ctfassets.net/rporu91m20dc/2dRA4bGtWJbKPZ7EWsrtZn/20a61f07686036326200142b657b6a4f/Starfield-IntoTheStarfield_Wallpaper_5654x2763-01.jpg?q=70&fm=webp)
+
+---
+
+## 🌐 Live Deployment
+This project is automatically deployed via GitHub Pages:
+- **Live URL**: [https://stormzeus.github.io/portfolio-project/](https://stormzeus.github.io/portfolio-project/)
 
 ---
 
