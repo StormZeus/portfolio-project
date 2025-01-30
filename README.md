@@ -50,10 +50,10 @@ This project is automatically deployed via GitHub Pages:
 - 🖼️ Responsive image handling
 
 **JS Features**:
-- 📝 Dynamic content addition
-- 🪟 Pop-up modal control
-- 📜 Smooth scrolling
-- 🖱️ Interactive form handling
+- Dynamic content addition
+- Pop-up modal control
+- Smooth scrolling
+- Interactive form handling
 
 ---
 
